@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/7cd262e9-ee96-41a9-9de0-cb6fbd06c394/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/testav",
+    "appService.deploySubpath": "."
+}
